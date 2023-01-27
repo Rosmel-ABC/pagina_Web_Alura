@@ -8,4 +8,7 @@ Se llevó a cabo usando tecnologías como HTML y CSS.
 Aquí se encuentran los archivos realizados , además de los recursos utilizados para la elaboración (imágenes)
 
 
+# NOTA: 
+
+El archivo style-home.css contiene todo el CSS de la página web.
 
